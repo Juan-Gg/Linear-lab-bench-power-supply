@@ -3,8 +3,7 @@
   First released to the public on MAY 2019
   Written by JuanGg on DECEMBER 2018-APRIL 2019
   https://juangg-projects.blogspot.com/
-Feel free to copy and make use of this code as long as you
-give credit to the original author.
+This work is licensed under GNU General Public License v3.0
 ***********************************************************/
 
 #ifdef SERIAL
